@@ -1,8 +1,8 @@
-# _Mad-Libs_
+# _voter-info_
 
 #### By _**Kai Clausen and Vera Weikel**_
 
-#### _Creates a mad lib_
+#### _Creates a voter information page_
 
 ## Technologies Used
 
